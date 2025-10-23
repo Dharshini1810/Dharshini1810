@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dharshini1810&label=Profile%20views&color=0e75b6&style=flat" alt="Dharshini1810" />
+</p>
+
 # 💫 About Me:
 💻 Currently working with Python frameworks – Django and Flask, along with Java-based applications<br>
 ☁️ Interested in contributing to cloud-native projects and open to collaboration<br>
