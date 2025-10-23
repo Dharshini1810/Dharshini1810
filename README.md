@@ -1,3 +1,6 @@
+<h1 align="center">Hi All 👋, Dharshini here</h1>
+<p align="center">🚀 Backend Developer | DevOps & Cloud Enthusiast | Aspiring Blockchain Developer</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dharshini1810&label=Profile%20views&color=0e75b6&style=flat" alt="Dharshini1810" />
 </p>
